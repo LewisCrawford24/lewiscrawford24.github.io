@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Crawford;Lewis;;;
+FN:Lewis Crawford
+TITLE:Business Development Manager
+ORG:Stronghold (The Beal Group)
+TEL;TYPE=work,voice:+447850892629
+EMAIL;TYPE=internet,pref:lcrawford@stronghold.co.uk
+URL:https://stronghold.co.uk
+PHOTO;VALUE=URI:https://lewiscrawford24.github.io/assets/stronghold_logo.png
+END:VCARD
